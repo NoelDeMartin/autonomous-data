@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.svg
 actionText: Learn How →
-actionLink: /guide.html
+actionLink: /guide/
 ---
 
 <style>

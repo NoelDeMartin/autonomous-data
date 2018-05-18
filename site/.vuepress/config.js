@@ -13,12 +13,26 @@ module.exports = {
     nav: [
       {
         text: 'Guide',
-        link: '/guide.html',
+        link: '/guide/',
       },
       {
         text: 'Specification',
         link: '/specification.html'
       }
-    ]
+    ],
+    sidebar: {
+      '/guide/': [
+        {
+          title: 'Guide',
+          collapsable: false,
+          children: [
+            '',
+            'example',
+            'getting-started',
+            'faq',
+          ]
+        }
+      ]
+    }
   }
 }
