@@ -9,30 +9,20 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#f9a825' }],
   ],
   themeConfig: {
+    logo: '/logo.svg',
     repo: 'noeldemartin/autonomous-data',
-    nav: [
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Specification',
-        link: '/specification.html'
-      }
-    ],
     sidebar: {
-      '/guide/': [
+      '/': [
         {
-          title: 'Guide',
           collapsable: false,
           children: [
-            '',
-            'example',
-            'getting-started',
-            'faq',
-          ]
-        }
-      ]
-    }
-  }
-}
+            'introduction',
+            'architecture',
+            'example-use-case',
+            'protocols-and-implementations',
+          ],
+        },
+      ],
+    },
+  },
+};

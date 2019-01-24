@@ -7,6 +7,6 @@
     "publish": "scripts/publish.sh"
   },
   "devDependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^0.14.8"
   }
 }
