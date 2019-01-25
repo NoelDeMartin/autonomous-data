@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Autonomous Data Protocol',
+  title: 'Autonomous Data',
   description: 'Let\'s make true data ownership a reality',
   base: '/autonomous-data/',
   head: [
