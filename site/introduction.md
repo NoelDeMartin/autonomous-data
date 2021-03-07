@@ -2,7 +2,7 @@
 
 Autonomous Data is an application architecture that respects users privacy and data ownership.
 
-Traditional architectures involve storing user data on service providers' servers. Even if they give ample control to their users, they are still acting as middlemen. In this situation, true data ownership cannot be more than a mirage. This can have some harmful implications:
+Traditional architectures involve storing user data on service providers' servers. Even if they give ample control to their users, they are still acting as middlemen. In this situation, true data ownership cannot be more than a mirage. And interoperability is non-existent. This can have some harmful implications:
 
 - Users privacy is at risk.
 - There is a dependency with service providers that makes it difficult to switch to alternatives.

@@ -2,7 +2,7 @@
 
 The core concept for Autonomous Data applications is that users decide where to store their data.
 
-To understand what this means and how it affects the existing ecosystem, it is necessary to start by looking at what we call the "traditional architecture".
+To understand what this means and how it affects the existing ecosystem, it is necessary to start by looking at what I call the "traditional architecture".
 
 ## Traditional architecture
 
@@ -20,14 +20,14 @@ So then, what does Autonomous Data mean?
 
 It means data that can live without depending on service providers.
 
-The only possible way for this to happen is if users are given direct access to their data and this data has a standarized format.
+The only possible way for this to happen is if users are given direct access to their data and this data has a standard format.
 
-That is why Autonomous Data applications ask the user where to store its data. This gives users complete control, and by necessity the data needs to have a standarized format because the application does not know where the data is being sent.
+That is why Autonomous Data applications ask the user where to store its data. This gives users complete control, and by necessity the data needs to have a standard format because the application does not know where the data is being sent.
 
 ## The Autonomous Data manifesto
 
 This simple requirement of letting users choose where to store data can be twisted. In order to adhere with the Autonomous Data ideology, the following points must be fulfilled:
 
-- Users must be able to choose where data is sent.
+- Users must be able to choose where the data is sent.
 - Service providers mustn't keep a copy of the user's data.
 - The data format and structure must be documented and accessible for users.
