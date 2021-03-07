@@ -16,4 +16,6 @@ These are some protocols suggested by the community. Not all of them completely 
 
 - [remoteStorage](https://remotestorage.io/) is the per-user storage protocol that came out of the [Unhosted project](https://unhosted.org).
 
+- [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+
 If there is anything else you think should be added to this list, [let me know](https://github.com/noeldemartin/autonomous-data/issues/new).
