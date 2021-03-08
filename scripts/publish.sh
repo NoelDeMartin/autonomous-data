@@ -11,6 +11,10 @@ npm run build
 # navigate into the build output directory
 cd site/.vuepress/dist
 
+# Configure Github Pages
+echo "autonomous-data.noeldemartin.com" > CNAME
+touch .nojekyll
+
 # create repository
 git init
 git add -A
